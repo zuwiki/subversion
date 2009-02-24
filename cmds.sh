@@ -1,1 +1,1 @@
-alias save='git add I.txt && git commit -m $1'
+alias save='git add . && git commit -m $1'
